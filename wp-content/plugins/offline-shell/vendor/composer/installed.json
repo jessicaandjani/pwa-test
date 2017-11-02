@@ -1,0 +1,35 @@
+[
+    {
+        "name": "mozilla/wp-sw-manager",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mozilla/wp-sw-manager.git",
+            "reference": "8923a5666a5fbc253e38e58e82eb97c7a680f0f2"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mozilla/wp-sw-manager/zipball/8923a5666a5fbc253e38e58e82eb97c7a680f0f2",
+            "reference": "8923a5666a5fbc253e38e58e82eb97c7a680f0f2",
+            "shasum": ""
+        },
+        "time": "2016-02-25 17:57:13",
+        "type": "library",
+        "installation-source": "source",
+        "license": [
+            "GPLv2"
+        ],
+        "authors": [
+            {
+                "name": "Salvador de la Puente",
+                "email": "salva@mozilla.com"
+            }
+        ],
+        "description": "Service Worker infrastructure for WordPress plugins.",
+        "support": {
+            "source": "https://github.com/mozilla/wp-sw-manager/tree/master",
+            "issues": "https://github.com/mozilla/wp-sw-manager/issues"
+        }
+    }
+]
